@@ -1,0 +1,25 @@
+
+body{
+    background-color: rgb(237, 242, 240);
+    background-repeat: no-repeat;
+}
+div{
+    width: 500px;
+    height: 200px;
+    border: 1px solid rgb(211, 180, 124);
+    background-color: azure;
+}
+form {
+    color: rgb(6, 35, 27);
+    border: 5px;
+   font-size: 20px;
+}
+label {
+    display: inline-block;
+    padding: 12px 12px 12px 0;
+    
+}
+p{
+    font-family: 'Brush Script MT', cursive;
+    font-size: 20px;
+}
